@@ -2,10 +2,10 @@ red
 orange
 cyjan
 blue
-yelow
+yellow
 greaen
 purple
-
+brown
 
 
 
