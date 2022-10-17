@@ -2717,7 +2717,7 @@ Raid wave composition
 Java Edition
 The number of waves depends on difficulty: There are 3 waves in Easy difficulty, 5 in Normal, and 7 in Hard. In Hard, there is a chance of 1 additional pillager and/or vindicator spawning. If the player's Bad Omen level is II or higher, one additional wave spawns (e.g. 4 in Easy, 6 in Normal, and 8 in Hard) with the same strength as the final wave. Raiders have an increased chance of spawning with enchanted items with higher bad omen levels, a 10% chance starting at Bad Omen II and up to a 75% chance at Bad Omen V.
 
-Easy difficulty
+easy difficulty
 When triggered with Bad Omen I, illager weapons are unenchanted. Bad Omen levels II through V each increases the possibility of low-level enchantments. There is a 25% chance of spawning an additional Pillager from 3 Pillagers each wave, totaling 4 Pillagers on Waves 2, 3, and the Extra Wave. And a 25% chance of spawning a Vindicator each wave, starting Wave 3.
 
 Number of mobs in each wave
@@ -2728,7 +2728,7 @@ Ravager			1	1
 Total mobs	4 - 5	5 - 7	4 - 6	4 - 6
 Overall total	13 - 18	17 - 24
 Normal difficulty
-There's a 50% chance of spawning either a additional Pillager from 3 Pillagers per wave, and/or a Vindicator on each wave. Witches can also spawn, but they only spawn with a 50% chance on Waves 3, and 5, but excluding Wave 4, only then will Wave 4, spawn 3 Witches respectively. A Ravager also spawns at Wave 3, but if there is an extra wave, there's a chance of 2 Ravagers in the extra wave- without them being a Pillager-Ravager Jockey, only Wave 5 spawns a Pillager-Ravager Jockey.
+There's a 50 prosent chance of spawning either a additional Pillager from 3 Pillagers per wave, and/or a Vindicator on each wave. Witches can also spawn, but they only spawn with a 50% chance on Waves 3, and 5, but excluding Wave 4, only then will Wave 4, spawn 3 Witches respectively. A Ravager also spawns at Wave 3, but if there is an extra wave, there's a chance of 2 Ravagers in the extra wave- without them being a Pillager-Ravager Jockey, only Wave 5 spawns a Pillager-Ravager Jockey.
 
 Number of mobs in each wave
 Mob	Wave 1	Wave 2	Wave 3	Wave 4	Wave 5	Extra Wave
