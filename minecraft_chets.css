@@ -1,3 +1,6 @@
 body{
     background-color: rgb(104, 205, 50);
+    font-size: x-large;
+    outline: 8px ridge rgba(150, 10, 209, 0.6);
+border-radius: 2rem;   
 }
