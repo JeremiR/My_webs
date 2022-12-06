@@ -3,4 +3,5 @@ body{
     font-style: normal;
     font-size: x-large;
     print-color-adjust: white;
+    text-emphasis-color:unset;
 }
